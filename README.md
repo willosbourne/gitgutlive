@@ -8,11 +8,5 @@ This will surely go fine.
 - four
 - six
 
-readme's are good.
-supposedly.
-
-- one
-- three
-- five
 
 this is going well, right?
